@@ -15,11 +15,7 @@ Here are some ideas to get you started:
 
 ###
 
-<h1 align="center">Ulises</h1>
-
-###
-
-<h2 align="left">🛠 Language and tools</h2>
+<h1 align="left">🛠 Language and tools</h1>
 
 ###
 
@@ -31,7 +27,7 @@ Here are some ideas to get you started:
 
 ###
 
-<h2 align="left">🔥   My Stats :</h2>
+<h1 align="left">🔥 GitHub Stats :</h1>
 
 ###
 
